@@ -1,0 +1,4 @@
+settings.py
+__pycache__/
+Django-EPR-master-evn
+*.pyc
